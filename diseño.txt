@@ -1,0 +1,7 @@
+Se usara un contador bcd a binario 
+para contar la cantidad de kilos en la depositados,
+un boton selector para cada tipo de material y 
+un cilindro neumatico de simple efecto para el vaciado
+ademas una baliza indicadora para indicar si se esta en reposo,
+cargando material o vaciando
+
